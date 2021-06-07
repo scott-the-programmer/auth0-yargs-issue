@@ -1,0 +1,23 @@
+{
+  "name": "auth0-yargs-issue",
+  "version": "1.0.0",
+  "description": "Demonstrating functionality conflict with the auth0 cli deployer and yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-the-programmer/auth0-yargs-issue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scott-the-programmer/auth0-yargs-issue/issues"
+  },
+  "homepage": "https://github.com/scott-the-programmer/auth0-yargs-issue#readme",
+  "dependencies": {
+    "auth0-deploy-cli": "^5.5.7",
+    "yargs": "^15.4.1"
+  }
+}
