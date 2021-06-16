@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/scott-the-programmer/auth0-yargs-issue#readme",
   "dependencies": {
-    "auth0-deploy-cli": "^5.5.7",
+    "auth0-deploy-cli": "^7.0.0",
     "yargs": "^15.4.1"
   }
 }
